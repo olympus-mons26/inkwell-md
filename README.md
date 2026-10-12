@@ -19,7 +19,7 @@ A lightweight Markdown editor with a live preview, formatting toolbar, settings 
 - `src/styles.css` — styling and theme configuration
 - `public/Markdown-Guide.md` — default Markdown guide shown on first load
 
-## Getting started
+## Getting started locally
 
 1. Install dependencies:
 
@@ -55,3 +55,6 @@ surge ./dist inkwell-md.surge.sh
 
 - Hosted with free Surge support: https://surge.sh
 - Made by olympus-mons26: https://github.com/olympus-mons26/inkwell-md
+
+## Website 
+[https:/inkwell-md.surge.sh](https://inkwell-md.surge.sh)
