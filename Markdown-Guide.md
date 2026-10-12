@@ -1,6 +1,6 @@
 # Markdown Guide
 
-Write plain text with Markdown marks to add structure and formatting. Inkwell renders the result in the live preview.
+Write plain text with Markdown marks to add structure and formatting. Inkwell renders the result in the live preview!
 
 ## Headings
 
